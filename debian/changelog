@@ -1,0 +1,5 @@
+map2json (0.0.1-1~artful) artful; urgency=medium
+
+  * No-change port to artful
+
+ -- Dmitry V. Alexeev <mail@alexeevdv.ru>  Wed, 03 Jan 2018 18:58:16 +0300

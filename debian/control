@@ -1,0 +1,15 @@
+Source: map2json
+Section: utils
+Priority: optional
+Maintainer: Dmitry V. Alexeev <mail@alexeevdv.ru>
+Build-Depends: debhelper (>=9), cmake (>=2.8)
+Standards-Version: 3.9.6
+Homepage: https://github.com/falltergeist/map2json
+Vcs-Git: git://github.com/falltergeist/map2json.git
+Vcs-Browser: https://github.com/falltergeist/map2json.git
+
+Package: map2json
+Architecture: any
+Depends:
+Description: *.map to JSON converter for Fallout 1/2 data files
+ *.map to JSON converter for Fallout 1/2 data files
