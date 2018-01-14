@@ -1,4 +1,4 @@
-map2json [![Build Status](https://travis-ci.org/falltergeist/map2json.svg?branch=develop)](https://travis-ci.org/falltergeist/map2json)         
+map2json [![Build Status](https://travis-ci.org/falltergeist/map2json.svg?branch=develop)](https://travis-ci.org/falltergeist/map2json) [![Version](https://img.shields.io/github/release/falltergeist/map2json.svg)](https://github.com/falltergeist/map2json/releases/latest) [![Discord](https://img.shields.io/discord/401990446747877376.svg)](https://discord.gg/jxs6WRq)
 ========
 *.map to JSON converter for Fallout 1/2 data files
 
